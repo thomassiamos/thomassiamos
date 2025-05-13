@@ -15,16 +15,6 @@ I'm a passionate software developer currently pursuing a degree in Computer Scie
 
 ---
 
-## 🔧 Technologies & Tools
-
-- **Languages**: JavaScript, C#, Python
-- **Frameworks**: React, Node.js
-- **Game Engines**: Unity, Unreal Engine
-- **Design**: Figma, Adobe XD
-- **3D Modeling**: Blender, Sketchfab
-
----
-
 ## 📈 GitHub Stats
 
 ![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomassiamos&show_icons=true&theme=radical)
