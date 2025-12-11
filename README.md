@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thomas Siamos
 
-🎮 Software Developer | 💻 Computer Science Student  
+💻 Software Developer | 💻 Computer Science Student  
 📍 Based in Athens, Greece
 
 ---
