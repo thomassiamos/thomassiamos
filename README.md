@@ -5,6 +5,6 @@
 
 ---
 
-I'm a software developer currently pursuing a degree in Computer Science. I enjoy building web experiences, developing games, and exploring creative projects at the intersection of code and design.
+I'm a software developer studying Computer Science. I enjoy building websites, designing games, and working on creative projects that combine code and design.
 
 [LinkedIn](https://www.linkedin.com/in/thomassiamos/) | [Linktree](https://linktr.ee/thomassiamos)
