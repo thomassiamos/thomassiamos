@@ -4,9 +4,9 @@
 
 📍 Athens, Greece
 
-I'm a Computer Science student at AMC / University of East London (UEL), interested in software development, game design, and interactive experiences.
+I'm a Computer Science student at AMC / University of East London (UEL), interested in software development and game design.
 
-I enjoy exploring how code, creativity, and design come together to build engaging games and applications. Currently developing my technical skills and working toward a career in the games industry.
+I enjoy building applications and working on projects involving both programming and design. My goal is to pursue a career in game development, with a focus on gameplay and game mechanics.
 
 ---
 
